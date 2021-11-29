@@ -1,0 +1,6 @@
+[submodule "arkmeds-teste-api"]
+	path = arkmeds-teste-api
+	url = https://github.com/FelpsCorrea/arkmeds-teste-api.git
+[submodule "arkmeds-teste-front"]
+	path = arkmeds-teste-front
+	url = https://github.com/FelpsCorrea/arkmeds-teste-front.git
